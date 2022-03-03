@@ -2,3 +2,4 @@ Git init - Inicia um repositório
 Git Status - Exibe o status dos aquivos no reporitório
 Git add . - Adiciona todos os aqiuvos no git
 git add nomedoaqruivo - Adiciona aquivo no Git
+git commit -m "Comita o aquivo no repositório" = Salva com comentário
