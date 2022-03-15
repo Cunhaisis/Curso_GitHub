@@ -1,5 +1,18 @@
-Git init - Inicia um repositório
+Git init - Inicia um repositório local
 Git Status - Exibe o status dos aquivos no reporitório
 Git add . - Adiciona todos os aqiuvos no git
-git add nomedoaqruivo - Adiciona aquivo no Git
+git add nomedoaqruivo - Adiciona aquivos especificos no Git
 git commit -m "Comita o aquivo no repositório" = Salva com comentário
+git branch -M main 
+git remote add origin https://github.com/Cunhaisis/Curso_GitHub.git
+git push -u origin maingit branch -M main
+git remote add origin https://github.com/Cunhaisis/Curso_GitHub.git
+git push -u origin main
+
+fatal: refusing to merge unrelated histories
+git pull origin master --allow-unrelated-histories
+ress i, then input your merge message.
+
+Then esc, and :wq
+
+git push -u origin main 
