@@ -20,4 +20,15 @@ git push -u origin main
 git clone 
 git pull - aceita o que está no repositório 
 git log 
-git checkout - Reverte uma alteração (rollback) 
+git checkout "nome do arquivo" - Reverte uma alteração (rollback) 
+git ignore 
+git reset - Volta o status inicial antes dos commits 
+git branch - visualiza as branches existentes
+git branch "nome" - cria uma nova branch 
+git checkout "nome da branch" - muda o apontamento para outra branch
+git branch -d - deleta a branch 
+git merge nome da branch 
+git stash 
+git stach list 
+
+-
