@@ -19,3 +19,5 @@ git push -u origin main
 
 git clone 
 git pull - aceita o que está no repositório 
+git log 
+git checkout - Reverte uma alteração (rollback) 
