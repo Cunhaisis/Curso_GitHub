@@ -16,3 +16,6 @@ ress i, then input your merge message.
 Then esc, and :wq
 
 git push -u origin main 
+
+git clone 
+git pull - aceita o que está no repositório 
